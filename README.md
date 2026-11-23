@@ -12,7 +12,7 @@ BSc IT (Robotics) graduate based in South Africa, interested in embedded systems
 Python · STM32CubeIDE · ESP32 · Raspberry Pi · SOLIDWORKS · PyBullet · Wokwi · HTML · Linux
 
 ## Featured projects
-- **Modular Mining UGV**: 3D-printable rocker-bogie rover with hot-swappable sensor modules, ESP32 web control and live video streaming. [link to repo once it exists]
+- **Modular Mining UGV**: 3D-printable rocker-bogie rover with hot-swappable sensor modules, ESP32 web control and live video streaming. [Modular Mining UGV](https://github.com/asfroneman/modular-mining-ugv)
 
 ## Get in touch
 - LinkedIn: https://za.linkedin.com/in/adrianfroneman
