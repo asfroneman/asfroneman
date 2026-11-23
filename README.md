@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Adrian 👋
 
-<!--
-**asfroneman/asfroneman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc IT (Robotics) graduate based in South Africa, interested in embedded systems, robotics, and industrial and mining safety technology.
 
-Here are some ideas to get you started:
+## What I work on
+- Embedded firmware on STM32 and ESP32 microcontrollers, including CAN bus communication
+- Mechanical design and 3D printing in SOLIDWORKS (Certified SOLIDWORKS Associate)
+- Robotics simulation and control in Python (PyBullet)
+- Single-board computers: Raspberry Pi and Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Python · STM32CubeIDE · ESP32 · Raspberry Pi · SOLIDWORKS · PyBullet · Wokwi · HTML · Linux
+
+## Featured projects
+- **Modular Mining UGV**: 3D-printable rocker-bogie rover with hot-swappable sensor modules, ESP32 web control and live video streaming. [link to repo once it exists]
+
+## Get in touch
+- LinkedIn: https://za.linkedin.com/in/adrianfroneman
+- Email: asfroneman@gmail.com
